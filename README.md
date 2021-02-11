@@ -10,4 +10,10 @@ Home page
 Projects
     Consists of 3 projects with description, link to Github, and link to deployed application
 
+
+Lint to POrtfolio:
+
+    https://behnert.github.io/8-Updated_Portfolio/
+    
+    
     
